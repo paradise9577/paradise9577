@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java 
 - 💞️ I’m looking to collaborate on with like minded teams
 - 📫 How to reach me paradise206@proton.me
-- 😄 Pronouns: paradsie goal
+- 😄 Pronouns: paradise goal
 - ⚡ Fun fact: coding is fun in the programming space
 
 <!---
